@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/mama-sucker/main/terminal.svg" alt="Terminal animation" width="560" />
+  <img src="https://raw.githubusercontent.com/mama-sucker/mama-sucker/main/terminal.svg" alt="Terminal animation" width="560" />
 </p>
 
 <p align="center">
